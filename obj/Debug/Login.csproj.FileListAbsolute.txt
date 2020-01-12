@@ -1,0 +1,14 @@
+C:\Users\jon20\Desktop\Login Bases\Login\bin\Debug\Login.exe.config
+C:\Users\jon20\Desktop\Login Bases\Login\bin\Debug\Login.exe
+C:\Users\jon20\Desktop\Login Bases\Login\bin\Debug\Login.pdb
+C:\Users\jon20\Desktop\Login Bases\Login\bin\Debug\Npgsql.dll
+C:\Users\jon20\Desktop\Login Bases\Login\bin\Debug\Npgsql.pdb
+C:\Users\jon20\Desktop\Login Bases\Login\bin\Debug\Npgsql.xml
+C:\Users\jon20\Desktop\Login Bases\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\jon20\Desktop\Login Bases\Login\obj\Debug\Login.Form1.resources
+C:\Users\jon20\Desktop\Login Bases\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\jon20\Desktop\Login Bases\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\jon20\Desktop\Login Bases\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\jon20\Desktop\Login Bases\Login\obj\Debug\Login.exe
+C:\Users\jon20\Desktop\Login Bases\Login\obj\Debug\Login.pdb
+C:\Users\jon20\Desktop\Login Bases\Login\bin\Debug\System.Threading.Tasks.Extensions.dll
